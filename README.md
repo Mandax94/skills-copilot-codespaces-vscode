@@ -1,4 +1,4 @@
-<header>
+<header>Mandax94
 
 <!--
   <<< Author notes: Course header >>>
@@ -52,7 +52,7 @@ Before you open up a codespace on a repository, you can create a development con
 1. In the body of the new **.devcontainer/devcontainer.json** file, add the following content:
    ```
    {
-       // Name this configuration
+       // Name this configuration cbonelo-AI
        "name": "Codespace for Skills!",
        "customizations": {
            "vscode": {
@@ -87,7 +87,7 @@ Before you open up a codespace on a repository, you can create a development con
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/code-with-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion ntokozosibonelo15@gmail.com oard](https://github.com/orgs/skills/discussions/categories/code-with-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/Mandax94)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
